@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Arduino Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="subscriptionKey">a7d324a704064d1aa9f1ee73f3be810e</string>
+</resources>
